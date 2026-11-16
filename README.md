@@ -13,10 +13,3 @@ I have worked with various technology stacks, including **C#/.NET, React, JavaSc
 I am particularly interested in creating practical software, exploring new technologies, and continuously improving my skills through personal and academic projects. I value clean, maintainable solutions and enjoy understanding the technical fundamentals behind the systems I build.
 
 I am **Brazilian** and can work with **technical documentation and development resources in English**, as well as communicate in English when necessary.
-
-### Technologies I have worked with and Interests 💡
-
-* 💻 **Languages:** C#, Python, JavaScript, SQL
-* ⚙️ **Backend:** .NET, ASP.NET Core, REST APIs
-* 🎨 **Frontend:** React, HTML, CSS
-* 💽 **Databases:** MySQL, PostgreSQL
